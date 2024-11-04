@@ -13,4 +13,9 @@ This dashboard shows the coffee purchases captured between march 2024 to October
 - Customers purchased Americano with milk the most, However, Latte brought in more revenue. 
 - This is because of the difference in prices per coffee.
 
+## Day
 
+![Sales by day](https://github.com/user-attachments/assets/ea7fd8c0-476a-495a-af16-e7497b4b7d27)
+
+- Tuesdays had the most purchases which explains the highest revenue.
+- Most purchases were during the day and as comapred to the night time.
